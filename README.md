@@ -1,5 +1,6 @@
-Excel Data Analysis Projects
-📌 Project Overview
+Excel Data Analysis Project
+
+Project Overview:
 This repository contains six Excel-based projects showcasing various data analysis, visualization, and automation techniques. These projects involve formulas, pivot tables, charts, conditional formatting, and even macros to enhance data insights.
 
 Projects & Key Features:
